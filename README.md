@@ -2,6 +2,8 @@
 
 # Dev Stack Builder
 
+[Visit Live Website](https://max-devstack-builder-2026.netlify.app/)
+
 Dev Stack Builder is a simple website where users can explore different technologies and build their own development stack.
 
 ## Technologies Used
