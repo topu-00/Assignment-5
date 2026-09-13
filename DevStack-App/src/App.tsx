@@ -7,6 +7,8 @@ import HeroSection from "./Components/HeroSection";
 import AllCard from "./Components/AllCard";
 import Stack from "./Components/Stack";
 
+import Footer from "./Components/Footer";
+
 import type { Technology } from "./Components/AllCard";
 
 import "react-toastify/dist/ReactToastify.css";
@@ -113,7 +115,7 @@ function App() {
         </section>
       </main>
 
-      {/* Footer */}
+      <Footer />
 
       <ToastContainer position="top-right" />
     </>
