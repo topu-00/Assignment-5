@@ -79,7 +79,7 @@ function App() {
           <div className="mb-10 text-center">
             <h2 className="text-3xl font-bold text-slate-900 sm:text-4xl">
               Explore the{" "}
-              <span className="text-indigo-500">
+              <span className="gradient-text">
                 Technologies
               </span>
             </h2>

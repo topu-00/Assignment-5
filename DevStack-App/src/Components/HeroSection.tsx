@@ -7,7 +7,7 @@ const HeroSection = () => {
                 <h1 className="text-4xl font-bold leading-tight tracking-tight text-slate-900 sm:text-5xl md:text-6xl lg:text-5xl xl:text-6xl">
                     Build Your Ideal
                     <br />
-                    <span className="text-indigo-500">
+                    <span className="gradient-text">
                         Development Stack
                     </span>
                 </h1>

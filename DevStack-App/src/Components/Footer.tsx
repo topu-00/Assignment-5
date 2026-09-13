@@ -43,7 +43,7 @@ const Footer = () => {
                         </div>
                     </div>
 
-                    <div className="grid w-full grid-cols-2 gap-x-8 gap-y-10 sm:grid-cols-3 sm:gap-x-12 lg:w-auto lg:min-w-[520px] lg:grid-cols-3 lg:gap-x-16">
+                    <div className="grid w-full grid-cols-2 gap-x-8 gap-y-10 sm:grid-cols-3 sm:gap-x-12 lg:w-auto lg:min-w-130 lg:grid-cols-3 lg:gap-x-16">
                         <div>
                             <h4 className="mb-4 text-xs font-bold tracking-wider text-slate-900">
                                 PRODUCT
