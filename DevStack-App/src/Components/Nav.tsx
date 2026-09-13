@@ -28,7 +28,7 @@ const Nav = () => {
                     </div>
 
                     <span className="text-xl font-bold tracking-tight text-slate-900">
-                        DevStack
+                        Dev<span className="gradient-text">Stack</span>
                     </span>
                 </div>
 

@@ -10,7 +10,7 @@ const Footer = () => {
                             </div>
 
                             <span className="text-lg font-bold text-slate-900 sm:text-xl">
-                                DevStack
+                                Dev<span className="gradient-text">Stack</span>
                             </span>
                         </div>
 
