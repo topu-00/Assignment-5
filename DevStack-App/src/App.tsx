@@ -2,6 +2,7 @@ import { Suspense, useState } from "react";
 import { ToastContainer, toast } from "react-toastify";
 
 import Nav from "./Components/Nav";
+import HeroSection from "./Components/HeroSection";
 
 import AllCard from "./Components/AllCard";
 import Stack from "./Components/Stack";
@@ -67,8 +68,7 @@ function App() {
 
       <main>
 
-        {/* HeroSection */}
-        
+        <HeroSection />
 
         <section
           id="technologies"
